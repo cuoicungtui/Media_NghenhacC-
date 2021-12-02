@@ -1,0 +1,29 @@
+D:\vi dùa\BTL\BTL\bin\Debug\BTL.exe.config
+D:\vi dùa\BTL\BTL\obj\Debug\BTL.csprojResolveAssemblyReference.cache
+D:\vi dùa\BTL\BTL\obj\Debug\Interop.WMPLib.dll
+D:\vi dùa\BTL\BTL\obj\Debug\AxInterop.WMPLib.dll
+D:\vi dùa\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\vi dùa\BTL\BTL\obj\Debug\BTL.Form1.resources
+D:\vi dùa\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\vi dùa\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.Cache
+D:\vi dùa\BTL\BTL\bin\Debug\BTL.exe
+D:\vi dùa\BTL\BTL\bin\Debug\BTL.pdb
+D:\vi dùa\BTL\BTL\bin\Debug\Interop.WMPLib.dll
+D:\vi dùa\BTL\BTL\bin\Debug\AxInterop.WMPLib.dll
+D:\vi dùa\BTL\BTL\obj\Debug\BTL.exe
+D:\vi dùa\BTL\BTL\obj\Debug\BTL.pdb
+E:\BTL\BTL\bin\Debug\BTL.exe.config
+E:\BTL\BTL\bin\Debug\BTL.exe
+E:\BTL\BTL\bin\Debug\BTL.pdb
+E:\BTL\BTL\bin\Debug\Interop.WMPLib.dll
+E:\BTL\BTL\bin\Debug\AxInterop.WMPLib.dll
+E:\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+E:\BTL\BTL\obj\Debug\Interop.WMPLib.dll
+E:\BTL\BTL\obj\Debug\AxInterop.WMPLib.dll
+E:\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+E:\BTL\BTL\obj\Debug\BTL.Form1.resources
+E:\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\BTL\BTL\obj\Debug\BTL.exe
+E:\BTL\BTL\obj\Debug\BTL.pdb
